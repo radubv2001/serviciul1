@@ -1,5 +1,5 @@
 <?php
-
-echo "Ce nota vrei ?";
+$Nota=5;
+echo "Nota Dvs. este".$Nota;
 
 
